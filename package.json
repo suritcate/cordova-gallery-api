@@ -1,0 +1,31 @@
+{
+  "name": "com.subitolabs.android.cordova.galleryapi",
+  "version": "0.2.0",
+  "description": "Cordova gallery API plugin",
+  "cordova": {
+    "id": "com.subitolabs.android.cordova.galleryapi",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collaborne/cordova-gallery-api.git"
+  },
+  "keywords": [
+    "cordova",
+    "gallery",
+    "media",
+    "api",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Collaborne/cordova-gallery-api/issues"
+  },
+  "homepage": "https://github.com/Collaborne/cordova-gallery-api#readme"
+}
