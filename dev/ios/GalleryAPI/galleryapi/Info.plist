@@ -43,5 +43,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Allow Photo Library to update your profile photos</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allow the app to know your location</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow the app to use Camera</string>
 </dict>
 </plist>
